@@ -21,5 +21,4 @@ EVM.py : python script to interface arduino peripherals with speech recognition 
    thus authenticates the identity of the user by verifying with the fingerprint samples of the user already in the database.
 2. The python script takes the input serial data from arduino and performs either audio playback in the chosen language or takes input by recognising speech commands.
 
-# 4. Commands
 
